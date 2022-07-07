@@ -1,4 +1,4 @@
-﻿
+REM This isdebug, so don't use.
 REM Created by DecSoft HTML Compiler 2022.6
 REM More information at https://www.decsoftutils.com/
 

@@ -1,0 +1,9 @@
+textarea {
+    resize: auto;
+    max-width: 1000px;
+    max-height: 1300px;
+    min-width: 1000px;
+    min-height: 1300px;
+    width: 1000px;
+    height: 1300px
+  }

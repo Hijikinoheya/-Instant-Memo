@@ -9,7 +9,6 @@
 # Apps used
 
 * Visual Studio Code,
-* DecSoft HTML Compiler
 
 # Future Challenges
 
@@ -22,3 +21,5 @@
 * [X] テキストボックスの中身を削除するときに警告を出す。/Warn when deleting the contents of a text box.
 
 まだそれだけ/Still that's it
+
+#Currently dormant this project
